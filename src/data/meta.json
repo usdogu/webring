@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
+    "title": "Codeksion Webring",
+    "description": "Yazılım odaklı Codeksion webringi.",
+    "image": "codeksion.jpg",
     "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "repo": "https://github.com/usdogu/webring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Doğu Us",
+            "url": "https://github.com/usdogu"
         }
     ]
 }

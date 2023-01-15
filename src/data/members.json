@@ -3,5 +3,10 @@
         "title": "Doğu Us",
         "url": "https://blog.usdogu.me",
         "feed": "https://blog.usdogu.me/index.xml"
+    },
+    {
+        "title": "Taha",
+        "url": "https://blog.mtaha.dev",
+        "feed": "https://blog.mtaha.dev/index.xml"
     }
 ]
